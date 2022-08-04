@@ -3,7 +3,9 @@
 ## Công việc cần làm
 
 Bạn sẽ cần làm đủ số lượng bài tập theo từng tuần học.
+
 Bạn sẽ truy cập vào thư mục code để làm bài tập.
+
 Với những thư mục hay file khác bạn không được tự ý thay đổi thông tin, tránh việc ảnh hưởng đến bộ test case để test bài tập của bạn.
 
 ## Yêu cầu
