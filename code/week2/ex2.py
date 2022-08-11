@@ -11,10 +11,4 @@ Output: 40320
 
 
 def main():
-    n = int(input('Nhập n: '))
-    factorial = 1
-
-    for i in range(1, n + 1):
-        factorial *= i
-
-    print(factorial)
+    pass

@@ -10,9 +10,4 @@ Output: [“Đá bóng”, “Chạy", “Nghe nhạc"]
 
 
 def main():
-    hobbies = []
-    for _ in range(3):
-        hobby = input('Hãy nhập sở thích: ')
-        hobbies.append(hobby)
-
-    print(hobbies)
+    pass
